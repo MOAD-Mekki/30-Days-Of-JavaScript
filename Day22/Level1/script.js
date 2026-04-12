@@ -1,4 +1,4 @@
-const container = document.getElementById("number-container");
+const container = document.getElementById("num-container");
 
 container.style.display = "grid";
 container.style.gridTemplateColumns = "repeat(10, 1fr)";
