@@ -74,7 +74,7 @@ The challenge includes a wide range of JavaScript concepts:
 ## 📬 Author
 
 * Name: *[Moad Mekki]*
-* Github: *[(https://github.com/MOAD-Mekki)]*
+* Github: *https://github.com/MOAD-Mekki*
 
 ---
 
